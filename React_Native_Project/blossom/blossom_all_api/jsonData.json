@@ -1,0 +1,224 @@
+
+  [
+    {
+      "_id": {
+        "$oid": "660c06fefe625b941d2836e1"
+      },
+      "notification_preference": [
+        {
+          "medium": "push",
+          "template": "PUSH_VIBROHEAT_LUMBER_APRIL_04_B2B",
+          "enabled": true
+        }
+      ],
+      "template": "VIBROHEAT_LUMBER_APRIL_24_B2B_MORNING",
+      "template_type": "bulk_b2b",
+      "runtime": {
+        "type": "SCHEDULED",
+        "param": "2024-04-24T10:00:00+05:30"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "660c06fefe625b941d2836e2"
+      },
+      "notification_preference": [
+        {
+          "medium": "push",
+          "template": "PUSH_VIBROHEAT_LUMBER_APRIL_04_B2C",
+          "enabled": true
+        }
+      ],
+      "template": "VIBROHEAT_LUMBER_APRIL_24_B2C_MORNING",
+      "template_type": "bulk_b2c",
+      "runtime": {
+        "type": "SCHEDULED",
+        "param": "2024-04-24T10:00:00+05:30"
+      }
+    },
+
+    {
+      "_id": {
+        "$oid": "660c06fefe625b941d2836e1"
+      },
+      "notification_preference": [
+        {
+          "medium": "push",
+          "template": "PUSH_VIBROHEAT_LUMBER_APRIL_04_B2B",
+          "enabled": true
+        }
+      ],
+      "template": "VIBROHEAT_LUMBER_APRIL_24_B2B_EVENING",
+      "template_type": "bulk_b2b",
+      "runtime": {
+        "type": "SCHEDULED",
+        "param": "2024-04-24T20:00:00+05:30"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "660c06fefe625b941d2836e2"
+      },
+      "notification_preference": [
+        {
+          "medium": "push",
+          "template": "PUSH_VIBROHEAT_LUMBER_APRIL_04_B2C",
+          "enabled": true
+        }
+      ],
+      "template": "VIBROHEAT_LUMBER_APRIL_24_B2C_EVENING",
+      "template_type": "bulk_b2c",
+      "runtime": {
+        "type": "SCHEDULED",
+        "param": "2024-04-24T20:00:00+05:30"
+      }
+    },
+
+    {
+      "_id": {
+        "$oid": "660c06fefe625b941d2836e3"
+      },
+      "notification_preference": [
+        {
+          "medium": "push",
+          "template": "PUSH_ILLUMICHARGE_APRIL_05_B2B",
+          "enabled": true
+        }
+      ],
+      "template": "ILLUMICHARGE_APRIL_25_B2B_MORNING",
+      "template_type": "bulk_b2b",
+      "runtime": {
+        "type": "SCHEDULED",
+        "param": "2024-04-25T10:00:00+05:30"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "660c06fefe625b941d2836e4"
+      },
+      "notification_preference": [
+        {
+          "medium": "push",
+          "template": "PUSH_ILLUMICHARGE_APRIL_05_B2C",
+          "enabled": true
+        }
+      ],
+      "template": "ILLUMICHARGE_APRIL_25_B2C_MORNING",
+      "template_type": "bulk_b2c",
+      "runtime": {
+        "type": "SCHEDULED",
+        "param": "2024-04-25T10:00:00+05:30"
+      }
+    },
+
+    {
+      "_id": {
+        "$oid": "660c06fefe625b941d2836e3"
+      },
+      "notification_preference": [
+        {
+          "medium": "push",
+          "template": "PUSH_ILLUMICHARGE_APRIL_05_B2B",
+          "enabled": true
+        }
+      ],
+      "template": "ILLUMICHARGE_APRIL_25_B2B_EVENING",
+      "template_type": "bulk_b2b",
+      "runtime": {
+        "type": "SCHEDULED",
+        "param": "2024-04-25T20:00:00+05:30"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "660c06fefe625b941d2836e4"
+      },
+      "notification_preference": [
+        {
+          "medium": "push",
+          "template": "PUSH_ILLUMICHARGE_APRIL_05_B2C",
+          "enabled": true
+        }
+      ],
+      "template": "ILLUMICHARGE_APRIL_25_B2C_EVENING",
+      "template_type": "bulk_b2c",
+      "runtime": {
+        "type": "SCHEDULED",
+        "param": "2024-04-25T20:00:00+05:30"
+      }
+    },
+
+    {
+      "_id": {
+        "$oid": "660c06fefe625b941d2836e5"
+      },
+      "notification_preference": [
+        {
+          "medium": "push",
+          "template": "PUSH_CHOETECH_CABLES_APRIL_06_B2B",
+          "enabled": true
+        }
+      ],
+      "template": "CHOETECH_CABLES_APRIL_26_B2B_MORNING",
+      "template_type": "bulk_b2b",
+      "runtime": {
+        "type": "SCHEDULED",
+        "param": "2024-04-26T10:00:00+05:30"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "660c06fefe625b941d2836e6"
+      },
+      "notification_preference": [
+        {
+          "medium": "push",
+          "template": "PUSH_CHOETECH_CABLES_APRIL_06_B2C",
+          "enabled": true
+        }
+      ],
+      "template": "CHOETECH_CABLES_APRIL_26_B2C_MORNING",
+      "template_type": "bulk_b2c",
+      "runtime": {
+        "type": "SCHEDULED",
+        "param": "2024-04-26T10:00:00+05:30"
+      }
+    },
+
+    {
+      "_id": {
+        "$oid": "660c06fefe625b941d2836e5"
+      },
+      "notification_preference": [
+        {
+          "medium": "push",
+          "template": "PUSH_CHOETECH_CABLES_APRIL_06_B2B",
+          "enabled": true
+        }
+      ],
+      "template": "CHOETECH_CABLES_APRIL_26_B2B_EVENING",
+      "template_type": "bulk_b2b",
+      "runtime": {
+        "type": "SCHEDULED",
+        "param": "2024-04-26T20:00:00+05:30"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "660c06fefe625b941d2836e6"
+      },
+      "notification_preference": [
+        {
+          "medium": "push",
+          "template": "PUSH_CHOETECH_CABLES_APRIL_06_B2C",
+          "enabled": true
+        }
+      ],
+      "template": "CHOETECH_CABLES_APRIL_26_B2C_EVENING",
+      "template_type": "bulk_b2c",
+      "runtime": {
+        "type": "SCHEDULED",
+        "param": "2024-04-26T20:00:00+05:30"
+      }
+    }
+  ]

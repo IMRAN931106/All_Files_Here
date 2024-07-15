@@ -1,0 +1,744 @@
+{
+  "banner": [
+    {
+      "page": "all",
+      "banners": [
+        {
+          "url": "https://img.freepik.com/premium-vector/gift-box-banner-template-design-web-social-media_39705-345.jpg",
+          "id": 1,
+          "name": "Banner 3"
+        },   
+        {
+          "url": "https://thumbs.dreamstime.com/b/pink-dahlia-flower-details-macro-photo-border-frame-wide-banner-background-message-wedding-background-pink-dahlia-flower-117406512.jpg",
+          "id": 2,
+          "name": "Banner 1"
+        },
+        {
+          "url": "https://floranext.com/wp-content/uploads/2016/01/valentinebanner3.jpg",
+          "id": 3,
+          "name": "Banner 2"
+        },
+        {
+          "url": "https://nurserylive.com/cdn/shop/files/nurserylive-app-home-page-banner-plants-v3_9a4542b8-e6b2-4c88-8c5a-0dc0993fac5f_670x400.jpg?v=1636743230",
+          "id": 4,
+          "name": "Banner 1"
+        },
+        {
+          "url": "https://thegiftstudio.com/cdn/shop/files/936x600_Smoor_Valentine_s_Banner.jpg?v=1707568190",
+          "id": 5,
+          "name": "Banner 2"
+        },
+        {
+          "url": "https://thegiftstudio.com/cdn/shop/files/BYOH_Website_Banner_-_Mobile.jpg?v=1705313347",
+          "id": 6,
+          "name": "Banner 1"
+        },
+        {
+          "url": "https://extension.okstate.edu/articles/images/plants-banner.jpg",
+          "id": 7,
+          "name": "Banner 2"
+        },
+        {
+          "url": "https://images.creativemarket.com/0.1.0/ps/5102131/1820/682/m1/fpnw/wm1/pzjfdljybqncn7evjet1eth5vee6agkty8dl3wqcbohgrivmjb7mws39f7kqo6v1-.jpg?1537868947&s=1f342d065c728cf515a338731f3dd020",
+          "id": 8,
+          "name": "Banner 5"
+        }
+         
+      ]
+    },
+    {
+      "page": "cakes",
+      "banners": [
+        {
+          "url": "https://mftcommonimages.s3.amazonaws.com/live-site-2016/2021/birthday-cake/birthday-cake-mobile-banner.jpg",
+          "id": 1,
+          "name": "Banner 1"
+        },
+        {
+          "url": "https://www.shutterstock.com/image-vector/happy-birthday-template-girl-greeting-600nw-2289960657.jpg",
+          "id": 2,
+          "name": "Banner 2"
+        },
+        {
+          "url": "https://www.thecakeshopcny.com/wp-content/uploads/2023/02/BB31AED7-EA07-404E-A837-DD0BE79D39BA.jpg",
+          "id": 3,
+          "name": "Banner 3"
+        },
+        {
+          "url": "https://chandigarhmetro.com/wp-content/uploads/2023/02/1474645974-cakes-group-193.jpg",
+          "id": 4,
+          "name": "Banner 4"
+        },
+        {
+          "url": "https://www.giftdubaionline.com/image/catalog/00blog/000small/001/birthday-cake-Dubai-2024.jpeg",
+          "id": 5,
+          "name": "Banner 5"
+        }
+      ]
+    },
+    {
+      "page": "flower",
+      "banners": [
+        {
+          "url": "https://thumbs.dreamstime.com/b/pink-dahlia-flower-details-macro-photo-border-frame-wide-banner-background-message-wedding-background-pink-dahlia-flower-117406512.jpg",
+          "id": 1,
+          "name": "Banner 1"
+        },
+        {
+          "url": "https://floranext.com/wp-content/uploads/2016/01/valentinebanner3.jpg",
+          "id": 2,
+          "name": "Banner 2"
+        },
+        {
+          "url": "https://flowermanager.net/wp-content/uploads/sites/19/2017/01/fromheart.jpg",
+          "id": 3,
+          "name": "Banner 3"
+        },
+        {
+          "url": "https://citylineflorist.flowermanager.net/wp-content/uploads/sites/28/2019/01/vday-elegant-so-many.jpg",
+          "id": 4,
+          "name": "Banner 4"
+        },
+        {
+          "url": "https://www.flowerstorquay.co.uk/upload/mt/tfc453/upload/files/images/panels/21-valentines-23.jpg",
+          "id": 5,
+          "name": "Banner 5"
+        }
+      ]
+    },
+    {
+      "page": "plant",
+      "banners": [
+        {
+          "url": "https://nurserylive.com/cdn/shop/files/nurserylive-app-home-page-banner-plants-v3_9a4542b8-e6b2-4c88-8c5a-0dc0993fac5f_670x400.jpg?v=1636743230",
+          "id": 1,
+          "name": "Banner 1"
+        },
+        {
+          "url": "https://extension.okstate.edu/articles/images/plants-banner.jpg",
+          "id": 2,
+          "name": "Banner 2"
+        },
+        {
+          "url": "https://i.pinimg.com/originals/3c/15/1a/3c151a741a8362f46b3944b314d21aba.jpg",
+          "id": 3,
+          "name": "Banner 3"
+        },
+        {
+          "url": "https://img.pikbest.com/backgrounds/20210706/creative-house-line-natural-green-plant-banner_6047690.jpg!bwr800",
+          "id": 4,
+          "name": "Banner 4"
+        },
+        {
+          "url": "https://img.pikbest.com/backgrounds/20210706/torn-paper-creative-effect-indoor-green-plant-banner_6047689.jpg!bwr800",
+          "id": 5,
+          "name": "Banner 5"
+        }
+      ]
+    },
+    {
+      "page": "chocolate",
+      "banners": [
+        {
+          "url": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/3bdf8c83723387.5d451f490f9a8.jpg",
+          "id": 1,
+          "name": "Banner 1"
+        },
+        {
+          "url": "https://previews.123rf.com/images/foodandmore/foodandmore1905/foodandmore190500155/123183698-rustic-banner-with-luxury-handmade-chocolates-and-a-heart-shaped-praline-on-a-twirling-gold-ribbon.jpg",
+          "id": 2,
+          "name": "Banner 2"
+        },
+        {
+          "url": "https://png.pngtree.com/background/20210711/original/pngtree-simple-splash-of-chocolate-e-commerce-banner-picture-image_1099701.jpg",
+          "id": 3,
+          "name": "Banner 3"
+        },
+        {
+          "url": "https://indiater.com/wp-content/uploads/2020/02/happy-chocolate-day-facebook-cover-banner-design-free-download.jpg",
+          "id": 4,
+          "name": "Banner 4"
+        },
+        {
+          "url": "https://png.pngtree.com/background/20210711/original/pngtree-simple-splash-of-chocolate-e-commerce-banner-picture-image_1099701.jpg",
+          "id": 5,
+          "name": "Banner 5"
+        }
+      ]
+    },
+    {
+      "page": "combos & hampers",
+      "banners": [
+        {
+          "url": "https://flowershut.com/pub/media/images/landing/gift/gift_banner.png",
+          "id": 1,
+          "name": "Banner 1"
+        },
+        {
+          "url": "https://assets.winni.in/groot/2022/10/28/mobile/birthday-gifts-banners.jpg",
+          "id": 2,
+          "name": "Banner 2"
+        },
+        {
+          "url": "https://previews.123rf.com/images/maglara/maglara2011/maglara201100051/159036490-merry-christmas-and-happy-holidays-greeting-card-or-banner-design-with-gift-box-and-golden-ornaments.jpg",
+          "id": 3,
+          "name": "Banner 3"
+        },
+        {
+          "url": "https://previews.123rf.com/images/keltmd/keltmd1710/keltmd171000151/87286209-birthday-gifts-horizontal-banner-birthday-gifts-vector-illustration-in-flat-style-for-web.jpg",
+          "id": 4,
+          "name": "Banner 4"
+        },
+        {
+          "url": "https://images.creativemarket.com/0.1.0/ps/5102131/1820/682/m1/fpnw/wm1/pzjfdljybqncn7evjet1eth5vee6agkty8dl3wqcbohgrivmjb7mws39f7kqo6v1-.jpg?1537868947&s=1f342d065c728cf515a338731f3dd020",
+          "id": 5,
+          "name": "Banner 5"
+        },
+        {
+          "url": "https://storage.needpix.com/rsynced_images/geschenk-banner.jpg",
+          "id": 6,
+          "name": "Banner 6"
+        },
+        {
+          "url": "https://ccbratislava.files.wordpress.com/2012/11/gift-banner.jpg",
+          "id": 7,
+          "name": "Banner 7"
+        },
+        {
+          "url": "https://png.pngtree.com/background/20210714/original/pngtree-christmas-banner-background-with-realistic-gift-boxes-and-green-pine-tree-picture-image_1233939.jpg",
+          "id": 8,
+          "name": "Banner 8"
+        }
+      ]
+    }
+  ],
+  "video": [
+    {
+      "url": "https://youtu.be/ckRVCtHiGVo",
+      "id": 1,
+      "name": "video 1",
+      "thumbnail": "https://templates.simplified.co/thumb/017b06c4-2f44-461c-a11e-7414ca0494a7.jpg"
+    },
+    {
+      "url": "https://youtu.be/nY12-2Gxl60",
+      "id": 2,
+      "name": "video 2",
+      "thumbnail": "https://www.dochipo.com/wp-content/uploads/2022/09/YouTube-Thumbnail-_-Food-11-scaled.jpg"
+    }
+  ],
+  "faq": [
+    {
+      "id": 1,
+      "question": "How should I store my cake to keep it fresh?",
+      "answer": "To maintain the freshness and flavor of your cake, it's best to store it properly. If your cake is frosted, it's crucial to keep it refrigerated to prevent the frosting from melting or becoming too soft. Place the cake in an airtight container or cover it tightly with plastic wrap to prevent it from drying out in the refrigerator."
+    },
+    {
+      "id": 2,
+      "question": "How should I store my chocolate to keep it fresh?",
+      "answer": "Store your chocolate in a cool, dry place away from direct sunlight and heat sources. Exposure to heat can cause the chocolate to melt or become soft, while sunlight can affect its flavor and texture."
+    },
+    {
+      "id": 3,
+      "question": "How do I care for my flower plant?",
+      "answer": "Most flower plants prefer bright, indirect sunlight. Place your plant near a window where it can receive adequate light without being exposed to direct sunlight, which can scorch the leaves."
+    },
+    {
+      "id": 4,
+      "question": "How do I care for the flowers in my bouquet?",
+      "answer": "Trim the Stems: Upon receiving your bouquet, trim the stems at an angle with a sharp pair of scissors. This allows the flowers to absorb water more effectively."
+    }
+  ],
+  "review": [
+    {
+      "id": 1,
+      "name": "Imran",
+      "comment": "This cake was an absolute delight! Moist, fluffy, and bursting with flavor, it exceeded all my expectations. Each bite was a heavenly experience, leaving me craving more. Whether it's for a celebration or just to satisfy a sweet tooth, this cake is sure to impress. I can't wait to indulge in another slice.",
+      "rating": 4.5,
+      "image": "https://m.media-amazon.com/images/I/418zBNWoVnS._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Shahid Ansari",
+      "comment": "These booke flowers were an absolute delight to receive! The arrangement was stunning, with a perfect blend of colors and textures that immediately caught my eye. Each flower was fresh and vibrant, and the attention to detail in the arrangement was impeccable. It was a truly special gift that brought joy to my day and brightened up my home. I highly recommend booke flowers for any occasion - they're sure to impress.",
+      "rating": 4,
+      "image": "https://i.pinimg.com/564x/fa/8d/ad/fa8dadb8e2e0eae66f5936f775995a60.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Love Kumar",
+      "comment": "I recently added this plant to my collection, and I couldn't be happier! It's thriving beautifully, with vibrant green leaves that bring life to my space. Not only does it add a refreshing touch of nature indoors, but it's also surprisingly easy to care for. It's quickly become a favorite, and I love how it effortlessly brightens up my home.",
+      "rating": 2,
+      "image": "https://urbano.in/wp-content/uploads/2023/07/IMG_20230728_155724.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Javed Mansoori",
+      "comment": "Wow, just wow! This chocolate is pure bliss in every bite. It's like a heavenly escape from the mundane. Rich, smooth, and oh-so-satisfying, it's impossible not to savor each moment. I may have found my new obsession!.",
+      "rating": 3,
+      "image": "https://t3.ftcdn.net/jpg/05/64/72/88/360_F_564728868_RBWkVZYrXIKYnkpew0ATS1ZAlj7SCC6k.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Meraj Khan",
+      "comment": "Indulging in this chocolate, cake, and flower combination was like experiencing a burst of joy! The chocolate was decadently rich, the cake was moist and flavorful, and the flowers added a delightful touch of elegance to the whole experience. It was a perfect treat for a special occasion or just to lift the spirits on any ordinary day. Highly recommend!.",
+      "rating": 1.5,
+      "image": "https://m.media-amazon.com/images/I/71J3YpXMP4L.jpg"
+    }
+  ],
+  "product": [
+    {
+      "id": 1,
+      "title": "Love Little Heart Cake",
+      "price": 999,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "cakes",
+      "image": "https://img.freepik.com/free-photo/delicious-cake-candles-arrangement_23-2149023576.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 2,
+      "title": "Delicious birthday cake",
+      "price": 799,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "cakes",
+      "image": "https://cdn.giftstoindia24x7.com/ASP_Img/IMG2000/GTI0241.jpg",
+      "rating": {
+        "rate": 4.9,
+        "count": 200
+      }
+    },
+    {
+      "id": 3,
+      "title": "Heavenly Red Velvet Cake",
+      "price": 999,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "cakes",
+      "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2009/4/5/1/IG1C17_30946_s4x3.jpg.rend.hgtvcom.1280.1280.suffix/1433541424559.jpeg",
+      "rating": {
+        "rate": 3,
+        "count": 900
+      }
+    },
+    {
+      "id": 4,
+      "title": "Lit candles on birthday cake",
+      "price": 299,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "cakes",
+      "image": "https://assets.winni.in/product/primary/2023/4/84499.jpeg?dpr=1&w=1000",
+      "rating": {
+        "rate": 3.5,
+        "count": 1200
+      }
+    },
+    {
+      "id": 5,
+      "title": "Festive two-tier cake with egg",
+      "price": 499,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "cakes",
+      "image": "https://superbcake.com/wp-content/uploads/2021/10/superb-pink-cake.jpg",
+      "rating": {
+        "rate": 4.2,
+        "count": 100
+      }
+    },
+    {
+      "id": 6,
+      "title": "Floral Anniversary Cake",
+      "price": 1199,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "cakes",
+      "image": "https://www.anytimecake.in/wp-content/uploads/2020/02/kids-cake-anytime.jpg",
+      "rating": {
+        "rate": 2.5,
+        "count": 1000
+      }
+    },
+    {
+      "id": 1,
+      "title": "Bouquet of 11 Ivory Lisia",
+      "price": 999,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "flower",
+      "image": "https://fyf.tac-cdn.net/images/products/small/FYF-118.jpg?auto=webp&quality=60&width=650",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 2,
+      "title": "Bloom in Love - A Bouquet of 18 Red Roses Bloom in Love - A Bouquet",
+      "price": 799,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "flower",
+      "image": "https://assets.flowersnfruits.com/uploads/product-pics/1687350650_7.png",
+      "rating": {
+        "rate": 4.9,
+        "count": 200
+      }
+    },
+    {
+      "id": 3,
+      "title": "Mix Lilies Bouquet",
+      "price": 999,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "flower",
+      "image": "https://donumgifts.co.zw/cdn/shop/products/exclusive-red-white-rose-bouquet-flowers-15917790462015_large.jpg?v=1629824646",
+      "rating": {
+        "rate": 3,
+        "count": 900
+      }
+    },
+    {
+      "id": 4,
+      "title": "Her Smile",
+      "price": 299,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "flower",
+      "image": "https://blacktulipflowers.in/wp-content/uploads/2023/06/01.png",
+      "rating": {
+        "rate": 3.5,
+        "count": 1200
+      }
+    },
+    {
+      "id": 5,
+      "title": "Asiatic Lilies",
+      "price": 499,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "flower",
+      "image": "https://aberdeenflowers.co.uk/148-large_default/stunning-hand-tied-bouquet-made-with-beautiful-fresh-flowers-.jpg",
+      "rating": {
+        "rate": 4.2,
+        "count": 100
+      }
+    },
+    {
+      "id": 6,
+      "title": "3 Days Of Magical Gifts",
+      "price": 1199,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "flower",
+      "image": "https://res.cloudinary.com/interflora/f_auto,q_auto,t_pnopt19prodlp/products/p-12-mixed-roses-bunch-138652-m.jpg",
+      "rating": {
+        "rate": 2.5,
+        "count": 1000
+      }
+    },
+    {
+      "id": 1,
+      "title": "rubber plant",
+      "price": 999,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "plant",
+      "image": "https://www.vhv.rs/dpng/f/491-4913545_monstera-deliciosa-medium-indoor-plants-transparent-background-hd.png",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 2,
+      "title": "How to Plant and Grow S",
+      "price": 799,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "plant",
+      "image": "https://www.pngmart.com/files/22/Plant-PNG-Transparent.png",
+      "rating": {
+        "rate": 4.9,
+        "count": 200
+      }
+    },
+    {
+      "id": 3,
+      "title": "Golden Pothos Plant Golden Pothos Plant",
+      "price": 999,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "plant",
+      "image": "https://www.pngitem.com/pimgs/m/519-5192698_areca-palm-transparent-background-indoor-plants-png-png.png",
+      "rating": {
+        "rate": 3,
+        "count": 900
+      }
+    },
+    {
+      "id": 4,
+      "title": "Lucky Bamboo Varigated",
+      "price": 299,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "plant",
+      "image": "https://img.lovepik.com/png/20231015/Radiation-protection-indoor-potted-plant-bonsai-schefflera-actinophylla-flowers_214784_wh1200.png",
+      "rating": {
+        "rate": 3.5,
+        "count": 1200
+      }
+    },
+    {
+      "id": 5,
+      "title": "Peace Lily Plant With At",
+      "price": 499,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "plant",
+      "image": "https://png.pngtree.com/png-clipart/20220616/original/pngtree-aesthetic-home-plant-png-image_8089535.png",
+      "rating": {
+        "rate": 4.2,
+        "count": 100
+      }
+    },
+    {
+      "id": 6,
+      "title": "Red Anthurium Plant",
+      "price": 1199,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "plant",
+      "image": "https://www.pngitem.com/pimgs/m/515-5154543_rubber-tree-plant-hd-png-download.png",
+      "rating": {
+        "rate": 2.5,
+        "count": 1000
+      }
+    },
+    {
+      "id": 1,
+      "title": "5 Dairy Milk Chocolates",
+      "price": 999,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "chocolate",
+      "image": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/02/chocolate-day-1581167313.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 2,
+      "title": "Combo Of Five Dairy Milk Chocolates",
+      "price": 799,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "chocolate",
+      "image": "https://royceindia.com/cdn/shop/files/ChocolateBarBlack_1.webp?v=1705398052&width=1080",
+      "rating": {
+        "rate": 4.9,
+        "count": 200
+      }
+    },
+    {
+      "id": 3,
+      "title": "Cadbury With Rose",
+      "price": 999,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "chocolate",
+      "image": "https://m.media-amazon.com/images/I/81fHKq9lmsL.png",
+      "rating": {
+        "rate": 3,
+        "count": 900
+      }
+    },
+    {
+      "id": 4,
+      "title": "Cadbury Dairy Milk Love C",
+      "price": 299,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "chocolate",
+      "image": "https://play-lh.googleusercontent.com/Jt9iq_xYe0ZoZ-y-ixKeh8wlqXymKa_0ertD_s4_OPmLGFZy4PbKJMtFoOhQxBwRi6E",
+      "rating": {
+        "rate": 3.5,
+        "count": 1200
+      }
+    },
+    {
+      "id": 5,
+      "title": "Ferrero Rocher Chocolate Candy Bouquet Ferrero Rocher Chocolate",
+      "price": 499,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "chocolate",
+      "image": "https://prodigits.co.uk/thumbs/wallpapers/p2ls/love-romance/26/1789896812386387.jpg",
+      "rating": {
+        "rate": 4.2,
+        "count": 100
+      }
+    },
+    {
+      "id": 6,
+      "title": "Five Star Bouquet",
+      "price": 1199,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "chocolate",
+      "image": "https://www.pngitem.com/pimgs/m/461-4619266_chocolate-hd-png-download.png",
+      "rating": {
+        "rate": 2.5,
+        "count": 1000
+      }
+    },
+    {
+      "id": 1,
+      "title": "5 Dairy Milk Chocolates",
+      "price": 999,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "combos & hampers",
+      "image": "https://cdn.appleyardflowers.com/media/catalog/product/cache/6/small_image/500x/9df78eab33525d08d6e5fb8d27136e95/g/l/glaze-25-truffles.webp",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 2,
+      "title": "Combo Of Five Dairy Milk Chocolates",
+      "price": 799,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "combos & hampers",
+      "image": "https://www.auntfrida.eu/storage/_sites/tetafrida/app/media/thumb/1920x1080.auto/Dan_zena_cele_jagode_v_cokoladi.jpg",
+      "rating": {
+        "rate": 4.9,
+        "count": 200
+      }
+    },
+    {
+      "id": 3,
+      "title": "Cadbury With Rose",
+      "price": 999,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "combos & hampers",
+      "image": "https://www.auntfrida.eu/storage/_sites/tetafrida/app/media/thumb/1920x1080.auto/Banner_danzena.jpg",
+      "rating": {
+        "rate": 3,
+        "count": 900
+      }
+    },
+    {
+      "id": 4,
+      "title": "Cadbury Dairy Milk Love C",
+      "price": 299,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "combos & hampers",
+      "image": "https://cakebee.in/cdn/shop/products/5b56d3b57627650d5a23b268_96b1adf1-eac3-473d-a5bc-e23cdeb1d582.jpg?v=1668503850",
+      "rating": {
+        "rate": 3.5,
+        "count": 1200
+      }
+    },
+    {
+      "id": 5,
+      "title": "Ferrero Rocher Chocolate Candy Bouquet Ferrero Rocher Chocolate",
+      "price": 499,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "combos & hampers",
+      "image": "https://www.bakehoney.com/media/38986/conversions/33435_01-02-2023_12-16-58_name_0000Chocolate-Cake-N-Red-Rose-(1)-banner.jpg",
+      "rating": {
+        "rate": 4.2,
+        "count": 100
+      }
+    },
+    {
+      "id": 6,
+      "title": "Five Star Bouquet",
+      "price": 1199,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "combos & hampers",
+      "image": "https://www.bakehoney.com/media/38985/conversions/33434_01-02-2023_12-15-48_name_000Chocolate-Cake-N-Mix-Rose-banner.jpg",
+      "rating": {
+        "rate": 2.5,
+        "count": 1000
+      }
+    }
+  ],
+  "best": [
+    {
+      "id": 1,
+      "title": "5 Dairy Milk Chocolates",
+      "price": 999,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "more",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Gtf24hfjQEOGpllrcYC8XASwoDY9gYHqSwGOAIR9lybtxlrRUPXlmDbjEwWncAMeoOU&usqp=CAU",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 2,
+      "title": "5 Dairy Milk Chocolates",
+      "price": 999,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "chocolate",
+      "image": "https://media.istockphoto.com/id/179005489/photo/mint-chocolate.jpg?s=612x612&w=0&k=20&c=EuRk8Gb1KNxB35d2QuoXuhZrIYiBRWQ1UbZrRiHNXgo=",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 3,
+      "title": "rubber plant",
+      "price": 999,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "plant",
+      "image": "https://www.vhv.rs/dpng/f/491-4913545_monstera-deliciosa-medium-indoor-plants-transparent-background-hd.png",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 4,
+      "title": "Bouquet of 11 Ivory Lisia",
+      "price": 999,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "flower",
+      "image": "https://fyf.tac-cdn.net/images/products/small/FYF-118.jpg?auto=webp&quality=60&width=650",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 5,
+      "title": "Love Little Heart Cake",
+      "price": 999,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "cakes",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9F_XOo5YWJphWRLLprbV3a6hgf8CGO9H47g&usqp=CAU",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    }
+  ],
+  "categoryname": [
+    {
+      "id": 0,
+      "name": "all",
+      "img": "https://handletheheat.com/wp-content/uploads/2015/03/Best-Birthday-Cake-with-milk-chocolate-buttercream-SQUARE.jpg"
+    },
+    {
+      "id": 1,
+      "name": "cakes",
+      "img": "https://handletheheat.com/wp-content/uploads/2015/03/Best-Birthday-Cake-with-milk-chocolate-buttercream-SQUARE.jpg"
+    },
+    {
+      "id": 2,
+      "name": "flower",
+      "img": "https://www.bigbasket.com/media/uploads/p/l/800318546_1-blooms-bouquets-flower-bouquet-20-delightful-red-roses.jpg"
+    },
+    {
+      "id": 3,
+      "name": "plant",
+      "img": "https://nurserylive.com/cdn/shop/products/nurserylive-g-plant-money-plant-scindapsus-green-plant-in-4.5-inch-11-cm-ronda-no-1110-round-plastic-turquoise-plant-548401_512x512.jpg?v=1679750636"
+    },
+    {
+      "id": 4,
+      "name": "chocolate",
+      "img": "https://wallpapers.com/images/featured/chocolate-pictures-xi2obvjhhzbk3v4a.jpg"
+    },
+    {
+      "id": 5,
+      "name": "combos & hampers",
+      "img": "https://www.jiomart.com/images/product/original/rvvb86wvjq/surpriseforu-chocolate-gift-pack-combo-chocolate-gift-chocolate-basket-hamper-307-product-images-orvvb86wvjq-p591474768-0-202205202232.jpg?im=Resize=(420,420)"
+    }
+  ]
+}
